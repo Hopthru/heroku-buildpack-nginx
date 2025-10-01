@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [unreleased] - YYYY-MM-DD
 ### Changes
 
+## [1.16] - 2025-10-01
+### Changes
+- [all] Substitution filter support, adding compile flag `--with-http_sub_module`
+
 ## [1.15] - 2025-07-21
 ### Changes
 - `start-nginx-static` now crashes when misconfigured
